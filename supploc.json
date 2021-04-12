@@ -1,0 +1,14 @@
+[
+    {
+        "Supplier": "Pfizer",
+        "Supplier City": "Kuala Lumpur",
+        "Supplier Zip Code": 68100,
+        "Supplier Address": "Addr_1"
+    },
+    {
+        "Supplier": "Sanofi",
+        "Supplier City": "Seremban",
+        "Supplier Zip Code": 70400,
+        "Supplier Address": "Addr_2"
+    }
+]

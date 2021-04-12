@@ -1,0 +1,107 @@
+[
+    {
+        "Truck Code": "Truck_ID1",
+        "Truck Type": "Type_01",
+        "Logistic Company": "Lestari",
+        "Num Plate": "Plate_01",
+        "Driver": "Driver_1"
+    },
+    {
+        "Truck Code": "Truck_ID2",
+        "Truck Type": "Type_01",
+        "Logistic Company": "Lestari",
+        "Num Plate": "Plate_02",
+        "Driver": "Driver_2"
+    },
+    {
+        "Truck Code": "Truck_ID3",
+        "Truck Type": "Type_01",
+        "Logistic Company": "Soon Logistics",
+        "Num Plate": "Plate_03",
+        "Driver": "Driver_3"
+    },
+    {
+        "Truck Code": "Truck_ID4",
+        "Truck Type": "Type_02",
+        "Logistic Company": "Lestari",
+        "Num Plate": "Plate_04",
+        "Driver": "Driver_4"
+    },
+    {
+        "Truck Code": "Truck_ID5",
+        "Truck Type": "Type_02",
+        "Logistic Company": "Lestari",
+        "Num Plate": "Plate_05",
+        "Driver": "Driver_5"
+    },
+    {
+        "Truck Code": "Truck_ID6",
+        "Truck Type": "Type_02",
+        "Logistic Company": "Soon Logistics",
+        "Num Plate": "Plate_06",
+        "Driver": "Driver_6"
+    },
+    {
+        "Truck Code": "Truck_ID7",
+        "Truck Type": "Type_02",
+        "Logistic Company": "Soon Logistics",
+        "Num Plate": "Plate_07",
+        "Driver": "Driver_7"
+    },
+    {
+        "Truck Code": "Truck_ID8",
+        "Truck Type": "Type_03",
+        "Logistic Company": "Lestari",
+        "Num Plate": "Plate_08",
+        "Driver": "Driver_8"
+    },
+    {
+        "Truck Code": "Truck_ID9",
+        "Truck Type": "Type_03",
+        "Logistic Company": "Lestari",
+        "Num Plate": "Plate_09",
+        "Driver": "Driver_9"
+    },
+    {
+        "Truck Code": "Truck_ID10",
+        "Truck Type": "Type_03",
+        "Logistic Company": "Soon Logistics",
+        "Num Plate": "Plate_10",
+        "Driver": "Driver_10"
+    },
+    {
+        "Truck Code": "Truck_ID11",
+        "Truck Type": "Type_04",
+        "Logistic Company": "Lestari",
+        "Num Plate": "Plate_11",
+        "Driver": "Driver_11"
+    },
+    {
+        "Truck Code": "Truck_ID12",
+        "Truck Type": "Type_04",
+        "Logistic Company": "Lestari",
+        "Num Plate": "Plate_12",
+        "Driver": "Driver_12"
+    },
+    {
+        "Truck Code": "Truck_ID13",
+        "Truck Type": "Type_04",
+        "Logistic Company": "Soon Logistics",
+        "Num Plate": "Plate_13",
+        "Driver": "Driver_13"
+    },
+    {
+        "Truck Code": "Truck_ID14",
+        "Truck Type": "Type_05",
+        "Logistic Company": "Soon Logistics",
+        "Num Plate": "Plate_14",
+        "Driver": "Driver_14"
+    },
+    {
+        "Truck Code": "Truck_ID15",
+        "Truck Type": "Type_05",
+        "Logistic Company": "Soon Logistics",
+        "Num Plate": "Plate_15",
+        "Driver": "Driver_15"
+    }
+]

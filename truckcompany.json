@@ -1,0 +1,14 @@
+[
+    {
+        "Logistic Company": "Lestari",
+        "Logistic City": "Kuala Lumpur",
+        "Logistic Zip Code": 68100,
+        "Logistic Address": "Addr_1"
+    },
+    {
+        "Logistic Company": "Soon Logistics",
+        "Logistic City": "Seremban",
+        "Logistic Zip Code": 70400,
+        "Logistic Address": "Addr_2"
+    }
+]

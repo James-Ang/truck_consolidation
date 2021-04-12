@@ -1,0 +1,47 @@
+[
+    {
+        "Truck Type": "Type_01",
+        "Truck Height (m)": 1.9,
+        "Truck Width (m)": 1.65,
+        "Truck Length (m)": 3.2,
+        "Truck Floor Area (m2)": 5.28,
+        "Truck Capacity by Volume (m3)": 10.032,
+        "FTL (Tons)": 1
+    },
+    {
+        "Truck Type": "Type_02",
+        "Truck Height (m)": 2.4,
+        "Truck Width (m)": 2.0,
+        "Truck Length (m)": 4.3,
+        "Truck Floor Area (m2)": 8.6,
+        "Truck Capacity by Volume (m3)": 20.64,
+        "FTL (Tons)": 2
+    },
+    {
+        "Truck Type": "Type_03",
+        "Truck Height (m)": 2.2,
+        "Truck Width (m)": 3.0,
+        "Truck Length (m)": 7.4,
+        "Truck Floor Area (m2)": 22.2,
+        "Truck Capacity by Volume (m3)": 48.84,
+        "FTL (Tons)": 4
+    },
+    {
+        "Truck Type": "Type_04",
+        "Truck Height (m)": 2.36,
+        "Truck Width (m)": 2.35,
+        "Truck Length (m)": 7.5,
+        "Truck Floor Area (m2)": 17.625,
+        "Truck Capacity by Volume (m3)": 41.595,
+        "FTL (Tons)": 5
+    },
+    {
+        "Truck Type": "Type_05",
+        "Truck Height (m)": 2.3,
+        "Truck Width (m)": 2.4,
+        "Truck Length (m)": 7.6,
+        "Truck Floor Area (m2)": 18.24,
+        "Truck Capacity by Volume (m3)": 41.952,
+        "FTL (Tons)": 10
+    }
+]

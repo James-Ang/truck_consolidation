@@ -1,0 +1,282 @@
+[
+    {
+        "Dest Code": "Dest_ID1",
+        "Destination City": "Malacca North",
+        "Destination Zip Code": 75460,
+        "Destination Address": "Address_1",
+        "Destination Cluster": "Cluster 1"
+    },
+    {
+        "Dest Code": "Dest_ID2",
+        "Destination City": "Malacca North",
+        "Destination Zip Code": 75620,
+        "Destination Address": "Address_2",
+        "Destination Cluster": "Cluster 1"
+    },
+    {
+        "Dest Code": "Dest_ID3",
+        "Destination City": "Malacca North",
+        "Destination Zip Code": 75050,
+        "Destination Address": "Address_3",
+        "Destination Cluster": "Cluster 1"
+    },
+    {
+        "Dest Code": "Dest_ID4",
+        "Destination City": "Malacca North",
+        "Destination Zip Code": 75604,
+        "Destination Address": "Address_4",
+        "Destination Cluster": "Cluster 1"
+    },
+    {
+        "Dest Code": "Dest_ID5",
+        "Destination City": "Malacca North",
+        "Destination Zip Code": 75450,
+        "Destination Address": "Address_5",
+        "Destination Cluster": "Cluster 1"
+    },
+    {
+        "Dest Code": "Dest_ID6",
+        "Destination City": "Malacca North",
+        "Destination Zip Code": 75586,
+        "Destination Address": "Address_6",
+        "Destination Cluster": "Cluster 1"
+    },
+    {
+        "Dest Code": "Dest_ID7",
+        "Destination City": "Malacca North",
+        "Destination Zip Code": 75350,
+        "Destination Address": "Address_7",
+        "Destination Cluster": "Cluster 1"
+    },
+    {
+        "Dest Code": "Dest_ID8",
+        "Destination City": "Malacca Central",
+        "Destination Zip Code": 75500,
+        "Destination Address": "Address_8",
+        "Destination Cluster": "Cluster 2"
+    },
+    {
+        "Dest Code": "Dest_ID9",
+        "Destination City": "Malacca Central",
+        "Destination Zip Code": 75502,
+        "Destination Address": "Address_9",
+        "Destination Cluster": "Cluster 2"
+    },
+    {
+        "Dest Code": "Dest_ID10",
+        "Destination City": "Malacca Central",
+        "Destination Zip Code": 75503,
+        "Destination Address": "Address_10",
+        "Destination Cluster": "Cluster 2"
+    },
+    {
+        "Dest Code": "Dest_ID11",
+        "Destination City": "Malacca Central",
+        "Destination Zip Code": 75504,
+        "Destination Address": "Address_11",
+        "Destination Cluster": "Cluster 2"
+    },
+    {
+        "Dest Code": "Dest_ID12",
+        "Destination City": "Malacca Central",
+        "Destination Zip Code": 75505,
+        "Destination Address": "Address_12",
+        "Destination Cluster": "Cluster 2"
+    },
+    {
+        "Dest Code": "Dest_ID13",
+        "Destination City": "Malacca Central",
+        "Destination Zip Code": 75508,
+        "Destination Address": "Address_13",
+        "Destination Cluster": "Cluster 2"
+    },
+    {
+        "Dest Code": "Dest_ID14",
+        "Destination City": "Malacca East",
+        "Destination Zip Code": 75510,
+        "Destination Address": "Address_14",
+        "Destination Cluster": "Cluster 3"
+    },
+    {
+        "Dest Code": "Dest_ID15",
+        "Destination City": "Malacca East",
+        "Destination Zip Code": 75512,
+        "Destination Address": "Address_15",
+        "Destination Cluster": "Cluster 3"
+    },
+    {
+        "Dest Code": "Dest_ID16",
+        "Destination City": "Malacca East",
+        "Destination Zip Code": 75514,
+        "Destination Address": "Address_16",
+        "Destination Cluster": "Cluster 3"
+    },
+    {
+        "Dest Code": "Dest_ID17",
+        "Destination City": "Malacca East",
+        "Destination Zip Code": 75516,
+        "Destination Address": "Address_17",
+        "Destination Cluster": "Cluster 3"
+    },
+    {
+        "Dest Code": "Dest_ID18",
+        "Destination City": "Malacca East",
+        "Destination Zip Code": 75517,
+        "Destination Address": "Address_18",
+        "Destination Cluster": "Cluster 3"
+    },
+    {
+        "Dest Code": "Dest_ID19",
+        "Destination City": "Malacca East",
+        "Destination Zip Code": 75518,
+        "Destination Address": "Address_19",
+        "Destination Cluster": "Cluster 3"
+    },
+    {
+        "Dest Code": "Dest_ID20",
+        "Destination City": "Malacca East",
+        "Destination Zip Code": 75532,
+        "Destination Address": "Address_20",
+        "Destination Cluster": "Cluster 3"
+    },
+    {
+        "Dest Code": "Dest_ID21",
+        "Destination City": "Johor Bharu North",
+        "Destination Zip Code": 80500,
+        "Destination Address": "Address_21",
+        "Destination Cluster": "Cluster 4"
+    },
+    {
+        "Dest Code": "Dest_ID22",
+        "Destination City": "Johor Bharu North",
+        "Destination Zip Code": 80506,
+        "Destination Address": "Address_22",
+        "Destination Cluster": "Cluster 4"
+    },
+    {
+        "Dest Code": "Dest_ID23",
+        "Destination City": "Johor Bharu North",
+        "Destination Zip Code": 80508,
+        "Destination Address": "Address_23",
+        "Destination Cluster": "Cluster 4"
+    },
+    {
+        "Dest Code": "Dest_ID24",
+        "Destination City": "Johor Bharu North",
+        "Destination Zip Code": 80516,
+        "Destination Address": "Address_24",
+        "Destination Cluster": "Cluster 4"
+    },
+    {
+        "Dest Code": "Dest_ID25",
+        "Destination City": "Johor Bharu North",
+        "Destination Zip Code": 80534,
+        "Destination Address": "Address_25",
+        "Destination Cluster": "Cluster 4"
+    },
+    {
+        "Dest Code": "Dest_ID26",
+        "Destination City": "Johor Bharu North",
+        "Destination Zip Code": 80536,
+        "Destination Address": "Address_26",
+        "Destination Cluster": "Cluster 4"
+    },
+    {
+        "Dest Code": "Dest_ID27",
+        "Destination City": "Johor Bharu North",
+        "Destination Zip Code": 80542,
+        "Destination Address": "Address_27",
+        "Destination Cluster": "Cluster 4"
+    },
+    {
+        "Dest Code": "Dest_ID28",
+        "Destination City": "Johor Bharu North",
+        "Destination Zip Code": 80546,
+        "Destination Address": "Address_28",
+        "Destination Cluster": "Cluster 4"
+    },
+    {
+        "Dest Code": "Dest_ID29",
+        "Destination City": "Johor Bharu South",
+        "Destination Zip Code": 80558,
+        "Destination Address": "Address_29",
+        "Destination Cluster": "Cluster 5"
+    },
+    {
+        "Dest Code": "Dest_ID30",
+        "Destination City": "Johor Bharu South",
+        "Destination Zip Code": 80560,
+        "Destination Address": "Address_30",
+        "Destination Cluster": "Cluster 5"
+    },
+    {
+        "Dest Code": "Dest_ID31",
+        "Destination City": "Johor Bharu South",
+        "Destination Zip Code": 80564,
+        "Destination Address": "Address_31",
+        "Destination Cluster": "Cluster 5"
+    },
+    {
+        "Dest Code": "Dest_ID32",
+        "Destination City": "Johor Bharu South",
+        "Destination Zip Code": 80568,
+        "Destination Address": "Address_32",
+        "Destination Cluster": "Cluster 5"
+    },
+    {
+        "Dest Code": "Dest_ID33",
+        "Destination City": "Johor Bharu South",
+        "Destination Zip Code": 80578,
+        "Destination Address": "Address_33",
+        "Destination Cluster": "Cluster 5"
+    },
+    {
+        "Dest Code": "Dest_ID34",
+        "Destination City": "Johor Bharu South",
+        "Destination Zip Code": 80584,
+        "Destination Address": "Address_34",
+        "Destination Cluster": "Cluster 5"
+    },
+    {
+        "Dest Code": "Dest_ID35",
+        "Destination City": "Johor Bharu West",
+        "Destination Zip Code": 80590,
+        "Destination Address": "Address_35",
+        "Destination Cluster": "Cluster 6"
+    },
+    {
+        "Dest Code": "Dest_ID36",
+        "Destination City": "Johor Bharu West",
+        "Destination Zip Code": 80592,
+        "Destination Address": "Address_36",
+        "Destination Cluster": "Cluster 6"
+    },
+    {
+        "Dest Code": "Dest_ID37",
+        "Destination City": "Johor Bharu West",
+        "Destination Zip Code": 80594,
+        "Destination Address": "Address_37",
+        "Destination Cluster": "Cluster 6"
+    },
+    {
+        "Dest Code": "Dest_ID38",
+        "Destination City": "Johor Bharu West",
+        "Destination Zip Code": 80596,
+        "Destination Address": "Address_38",
+        "Destination Cluster": "Cluster 6"
+    },
+    {
+        "Dest Code": "Dest_ID39",
+        "Destination City": "Johor Bharu West",
+        "Destination Zip Code": 80600,
+        "Destination Address": "Address_39",
+        "Destination Cluster": "Cluster 6"
+    },
+    {
+        "Dest Code": "Dest_ID40",
+        "Destination City": "Johor Bharu West",
+        "Destination Zip Code": 80604,
+        "Destination Address": "Address_40",
+        "Destination Cluster": "Cluster 6"
+    }
+]

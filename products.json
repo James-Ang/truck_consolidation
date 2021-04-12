@@ -1,0 +1,92 @@
+[
+    {
+        "SKU Code": "A1_10",
+        "Supplier": "Pfizer",
+        "Product": "A1",
+        "Packaging Description": "10 unit carton",
+        "Units per carton": 10,
+        "Packaging Code": "B001",
+        "SKU Weight (kg)": 1.8
+    },
+    {
+        "SKU Code": "A1_20",
+        "Supplier": "Pfizer",
+        "Product": "A1",
+        "Packaging Description": "20 unit carton",
+        "Units per carton": 20,
+        "Packaging Code": "B005",
+        "SKU Weight (kg)": 4.0
+    },
+    {
+        "SKU Code": "A1_30",
+        "Supplier": "Pfizer",
+        "Product": "A1",
+        "Packaging Description": "30 unit carton",
+        "Units per carton": 30,
+        "Packaging Code": "B007",
+        "SKU Weight (kg)": 8.0
+    },
+    {
+        "SKU Code": "A2_20",
+        "Supplier": "Pfizer",
+        "Product": "A2",
+        "Packaging Description": "20 unit carton",
+        "Units per carton": 20,
+        "Packaging Code": "B003",
+        "SKU Weight (kg)": 2.8
+    },
+    {
+        "SKU Code": "A2_50",
+        "Supplier": "Pfizer",
+        "Product": "A2",
+        "Packaging Description": "50 unit carton",
+        "Units per carton": 40,
+        "Packaging Code": "B006",
+        "SKU Weight (kg)": 6.0
+    },
+    {
+        "SKU Code": "A2_80",
+        "Supplier": "Pfizer",
+        "Product": "A2",
+        "Packaging Description": "80 unit carton",
+        "Units per carton": 70,
+        "Packaging Code": "B007",
+        "SKU Weight (kg)": 8.3
+    },
+    {
+        "SKU Code": "B1_100",
+        "Supplier": "Sanofi",
+        "Product": "B1",
+        "Packaging Description": "100 unit carton",
+        "Units per carton": 100,
+        "Packaging Code": "B004",
+        "SKU Weight (kg)": 3.8
+    },
+    {
+        "SKU Code": "B1_200",
+        "Supplier": "Sanofi",
+        "Product": "B1",
+        "Packaging Description": "200 unit carton",
+        "Units per carton": 200,
+        "Packaging Code": "B006",
+        "SKU Weight (kg)": 7.5
+    },
+    {
+        "SKU Code": "B2_70",
+        "Supplier": "Sanofi",
+        "Product": "B2",
+        "Packaging Description": " unit carton",
+        "Units per carton": 70,
+        "Packaging Code": "DHL02",
+        "SKU Weight (kg)": 2.5
+    },
+    {
+        "SKU Code": "B2_150",
+        "Supplier": "Sanofi",
+        "Product": "B2",
+        "Packaging Description": " unit carton",
+        "Units per carton": 150,
+        "Packaging Code": "DHL03",
+        "SKU Weight (kg)": 6.0
+    }
+]

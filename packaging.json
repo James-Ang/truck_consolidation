@@ -1,0 +1,182 @@
+[
+    {
+        "Packaging Code": "B001",
+        "Packaging Type": "BoxEcomm",
+        "Packaging Height (cm)": 11,
+        "Packaging Width (cm)": 27,
+        "Packaging Length (cm)": 30,
+        "Packaging Floor Area (cm2)": 810,
+        "Packaging Capacity by Volume (cm3)": 8910,
+        "Packaging Weight Limit (kg)": 2.0
+    },
+    {
+        "Packaging Code": "B002",
+        "Packaging Type": "BoxEcomm",
+        "Packaging Height (cm)": 16,
+        "Packaging Width (cm)": 25,
+        "Packaging Length (cm)": 25,
+        "Packaging Floor Area (cm2)": 625,
+        "Packaging Capacity by Volume (cm3)": 10000,
+        "Packaging Weight Limit (kg)": 3.0
+    },
+    {
+        "Packaging Code": "B003",
+        "Packaging Type": "BoxEcomm",
+        "Packaging Height (cm)": 11,
+        "Packaging Width (cm)": 25,
+        "Packaging Length (cm)": 35,
+        "Packaging Floor Area (cm2)": 875,
+        "Packaging Capacity by Volume (cm3)": 9625,
+        "Packaging Weight Limit (kg)": 3.0
+    },
+    {
+        "Packaging Code": "B004",
+        "Packaging Type": "BoxEcomm",
+        "Packaging Height (cm)": 20,
+        "Packaging Width (cm)": 20,
+        "Packaging Length (cm)": 30,
+        "Packaging Floor Area (cm2)": 600,
+        "Packaging Capacity by Volume (cm3)": 12000,
+        "Packaging Weight Limit (kg)": 4.0
+    },
+    {
+        "Packaging Code": "B005",
+        "Packaging Type": "BoxEcomm",
+        "Packaging Height (cm)": 20,
+        "Packaging Width (cm)": 30,
+        "Packaging Length (cm)": 30,
+        "Packaging Floor Area (cm2)": 900,
+        "Packaging Capacity by Volume (cm3)": 18000,
+        "Packaging Weight Limit (kg)": 7.0
+    },
+    {
+        "Packaging Code": "B006",
+        "Packaging Type": "BoxEcomm",
+        "Packaging Height (cm)": 20,
+        "Packaging Width (cm)": 35,
+        "Packaging Length (cm)": 35,
+        "Packaging Floor Area (cm2)": 1225,
+        "Packaging Capacity by Volume (cm3)": 24500,
+        "Packaging Weight Limit (kg)": 8.0
+    },
+    {
+        "Packaging Code": "B007",
+        "Packaging Type": "BoxEcomm",
+        "Packaging Height (cm)": 20,
+        "Packaging Width (cm)": 35,
+        "Packaging Length (cm)": 40,
+        "Packaging Floor Area (cm2)": 1400,
+        "Packaging Capacity by Volume (cm3)": 28000,
+        "Packaging Weight Limit (kg)": 9.0
+    },
+    {
+        "Packaging Code": "B008",
+        "Packaging Type": "BoxEcomm",
+        "Packaging Height (cm)": 32,
+        "Packaging Width (cm)": 22,
+        "Packaging Length (cm)": 15,
+        "Packaging Floor Area (cm2)": 330,
+        "Packaging Capacity by Volume (cm3)": 10560,
+        "Packaging Weight Limit (kg)": 3.0
+    },
+    {
+        "Packaging Code": "B009",
+        "Packaging Type": "BoxEcomm",
+        "Packaging Height (cm)": 31,
+        "Packaging Width (cm)": 24,
+        "Packaging Length (cm)": 29,
+        "Packaging Floor Area (cm2)": 696,
+        "Packaging Capacity by Volume (cm3)": 21576,
+        "Packaging Weight Limit (kg)": 8.0
+    },
+    {
+        "Packaging Code": "B010",
+        "Packaging Type": "BoxEcomm",
+        "Packaging Height (cm)": 36,
+        "Packaging Width (cm)": 28,
+        "Packaging Length (cm)": 21,
+        "Packaging Floor Area (cm2)": 588,
+        "Packaging Capacity by Volume (cm3)": 21168,
+        "Packaging Weight Limit (kg)": 8.0
+    },
+    {
+        "Packaging Code": "UPS01",
+        "Packaging Type": "UPS",
+        "Packaging Height (cm)": 27,
+        "Packaging Width (cm)": 34,
+        "Packaging Length (cm)": 42,
+        "Packaging Floor Area (cm2)": 1428,
+        "Packaging Capacity by Volume (cm3)": 38556,
+        "Packaging Weight Limit (kg)": 10.0
+    },
+    {
+        "Packaging Code": "UPS02",
+        "Packaging Type": "UPS",
+        "Packaging Height (cm)": 34,
+        "Packaging Width (cm)": 45,
+        "Packaging Length (cm)": 50,
+        "Packaging Floor Area (cm2)": 2250,
+        "Packaging Capacity by Volume (cm3)": 76500,
+        "Packaging Weight Limit (kg)": 25.0
+    },
+    {
+        "Packaging Code": "DHL01",
+        "Packaging Type": "DHL",
+        "Packaging Height (cm)": 10,
+        "Packaging Width (cm)": 18,
+        "Packaging Length (cm)": 34,
+        "Packaging Floor Area (cm2)": 612,
+        "Packaging Capacity by Volume (cm3)": 6120,
+        "Packaging Weight Limit (kg)": 1.5
+    },
+    {
+        "Packaging Code": "DHL02",
+        "Packaging Type": "DHL",
+        "Packaging Height (cm)": 10,
+        "Packaging Width (cm)": 32,
+        "Packaging Length (cm)": 34,
+        "Packaging Floor Area (cm2)": 1088,
+        "Packaging Capacity by Volume (cm3)": 10880,
+        "Packaging Weight Limit (kg)": 3.0
+    },
+    {
+        "Packaging Code": "DHL03",
+        "Packaging Type": "DHL",
+        "Packaging Height (cm)": 18,
+        "Packaging Width (cm)": 32,
+        "Packaging Length (cm)": 34,
+        "Packaging Floor Area (cm2)": 1088,
+        "Packaging Capacity by Volume (cm3)": 19584,
+        "Packaging Weight Limit (kg)": 7.0
+    },
+    {
+        "Packaging Code": "DHL04",
+        "Packaging Type": "DHL",
+        "Packaging Height (cm)": 34,
+        "Packaging Width (cm)": 32,
+        "Packaging Length (cm)": 34,
+        "Packaging Floor Area (cm2)": 1088,
+        "Packaging Capacity by Volume (cm3)": 36992,
+        "Packaging Weight Limit (kg)": 12.0
+    },
+    {
+        "Packaging Code": "DHL05",
+        "Packaging Type": "DHL",
+        "Packaging Height (cm)": 37,
+        "Packaging Width (cm)": 36,
+        "Packaging Length (cm)": 42,
+        "Packaging Floor Area (cm2)": 1512,
+        "Packaging Capacity by Volume (cm3)": 55944,
+        "Packaging Weight Limit (kg)": 18.0
+    },
+    {
+        "Packaging Code": "DHL06",
+        "Packaging Type": "DHL",
+        "Packaging Height (cm)": 39,
+        "Packaging Width (cm)": 40,
+        "Packaging Length (cm)": 48,
+        "Packaging Floor Area (cm2)": 1920,
+        "Packaging Capacity by Volume (cm3)": 74880,
+        "Packaging Weight Limit (kg)": 25.0
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "Order ID": "Order_01",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID21",
+        "SKU Code": "A1_10",
+        "Order Quantity (unit SKU)": 100
+    },
+    {
+        "Order ID": "Order_02",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID21",
+        "SKU Code": "A2_20",
+        "Order Quantity (unit SKU)": 250
+    },
+    {
+        "Order ID": "Order_03",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID22",
+        "SKU Code": "A1_10",
+        "Order Quantity (unit SKU)": 230
+    },
+    {
+        "Order ID": "Order_04",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID22",
+        "SKU Code": "B1_100",
+        "Order Quantity (unit SKU)": 50
+    },
+    {
+        "Order ID": "Order_05",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID23",
+        "SKU Code": "A1_10",
+        "Order Quantity (unit SKU)": 100
+    },
+    {
+        "Order ID": "Order_06",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID24",
+        "SKU Code": "A2_20",
+        "Order Quantity (unit SKU)": 100
+    },
+    {
+        "Order ID": "Order_07",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID24",
+        "SKU Code": "A1_10",
+        "Order Quantity (unit SKU)": 160
+    },
+    {
+        "Order ID": "Order_08",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID25",
+        "SKU Code": "B1_100",
+        "Order Quantity (unit SKU)": 50
+    },
+    {
+        "Order ID": "Order_09",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID27",
+        "SKU Code": "A1_10",
+        "Order Quantity (unit SKU)": 100
+    },
+    {
+        "Order ID": "Order_10",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID27",
+        "SKU Code": "A2_20",
+        "Order Quantity (unit SKU)": 100
+    },
+    {
+        "Order ID": "Order_11",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID22",
+        "SKU Code": "A2_50",
+        "Order Quantity (unit SKU)": 50
+    },
+    {
+        "Order ID": "Order_12",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID22",
+        "SKU Code": "A2_80",
+        "Order Quantity (unit SKU)": 50
+    },
+    {
+        "Order ID": "Order_13",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID29",
+        "SKU Code": "A1_10",
+        "Order Quantity (unit SKU)": 100
+    },
+    {
+        "Order ID": "Order_14",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID29",
+        "SKU Code": "A2_20",
+        "Order Quantity (unit SKU)": 100
+    },
+    {
+        "Order ID": "Order_15",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID29",
+        "SKU Code": "A1_10",
+        "Order Quantity (unit SKU)": 50
+    },
+    {
+        "Order ID": "Order_16",
+        "Requested Delivery Window": "Wk16",
+        "Dest Code": "Dest_ID29",
+        "SKU Code": "B1_100",
+        "Order Quantity (unit SKU)": 50
+    },
+    {
+        "Order ID": "Order_17",
+        "Requested Delivery Window": "Wk17",
+        "Dest Code": "Dest_ID29",
+        "SKU Code": "A2_50",
+        "Order Quantity (unit SKU)": 230
+    },
+    {
+        "Order ID": "Order_18",
+        "Requested Delivery Window": "Wk17",
+        "Dest Code": "Dest_ID29",
+        "SKU Code": "A2_80",
+        "Order Quantity (unit SKU)": 350
+    },
+    {
+        "Order ID": "Order_19",
+        "Requested Delivery Window": "Wk17",
+        "Dest Code": "Dest_ID29",
+        "SKU Code": "A1_10",
+        "Order Quantity (unit SKU)": 250
+    },
+    {
+        "Order ID": "Order_20",
+        "Requested Delivery Window": "Wk17",
+        "Dest Code": "Dest_ID29",
+        "SKU Code": "B1_100",
+        "Order Quantity (unit SKU)": 300
+    },
+    {
+        "Order ID": "Order_21",
+        "Requested Delivery Window": "Wk17",
+        "Dest Code": "Dest_ID21",
+        "SKU Code": "A1_10",
+        "Order Quantity (unit SKU)": 100
+    },
+    {
+        "Order ID": "Order_22",
+        "Requested Delivery Window": "Wk17",
+        "Dest Code": "Dest_ID21",
+        "SKU Code": "A2_20",
+        "Order Quantity (unit SKU)": 100
+    },
+    {
+        "Order ID": "Order_23",
+        "Requested Delivery Window": "Wk17",
+        "Dest Code": "Dest_ID22",
+        "SKU Code": "A1_10",
+        "Order Quantity (unit SKU)": 150
+    },
+    {
+        "Order ID": "Order_24",
+        "Requested Delivery Window": "Wk17",
+        "Dest Code": "Dest_ID22",
+        "SKU Code": "B1_100",
+        "Order Quantity (unit SKU)": 100
+    }
+]
